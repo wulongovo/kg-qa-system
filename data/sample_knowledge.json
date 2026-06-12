@@ -1,0 +1,9 @@
+{
+  "texts": [
+    "LangChain是一个用于构建LLM应用的框架，由Harrison Chase创建。LangChain支持多种大模型，包括OpenAI的GPT系列和Meta的LLaMA系列。LangGraph是LangChain团队推出的多Agent编排框架，基于状态图实现Agent协作。",
+    "知识图谱是一种结构化的知识表示方式，由实体和关系组成。Neo4j是最流行的图数据库，支持Cypher查询语言。NetworkX是Python的图计算库，适合中小规模图谱。",
+    "RAG（检索增强生成）通过检索外部知识来增强LLM的回答质量。RAG系统通常包含三个组件：文档加载器、向量数据库和LLM。常见的向量数据库有ChromaDB、Milvus、FAISS和Pinecone。",
+    "LoRA是一种参数高效微调技术，通过低秩分解减少可训练参数量。QLoRA在LoRA基础上引入4bit量化，使得在消费级GPU上也能微调大模型。",
+    "Prompt Engineering是设计和优化LLM输入提示的技术。常见策略包括Few-shot（提供示例）、Chain-of-Thought（分步推理）和Role-playing（角色扮演）。DSPy是一个自动化Prompt优化框架。"
+  ]
+}
